@@ -1,0 +1,2 @@
+# ScenarioHelper
+テキストのシナリオをvoiceroidで音声化する作業を手助けする。
